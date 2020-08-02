@@ -11,8 +11,8 @@
 // about supported directives.
 //
 //= require rails-ujs
-//= require jquery     # 追記
-//= require bootstrap  # 追記
+//= require jquery     
+//= require bootstrap  
 //= require activestorage
 //= require turbolinks
 //= require_tree .
